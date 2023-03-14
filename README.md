@@ -1,6 +1,6 @@
-#Ness Project - Made in React
+# Ness Project - Made in React
 
-##To Start
+## To Start
 
 - Clone the repo on your local machine
 - Open the project with Visual Studio Code or any IDE ( I used Visual Studio Code)
